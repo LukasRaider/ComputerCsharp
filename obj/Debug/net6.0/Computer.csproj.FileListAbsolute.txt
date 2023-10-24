@@ -1,0 +1,4 @@
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Computer\obj\Debug\net6.0\Computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Computer\obj\Debug\net6.0\Computer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Computer\obj\Debug\net6.0\Computer.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Computer\obj\Debug\net6.0\Computer.csproj.CoreCompileInputs.cache
